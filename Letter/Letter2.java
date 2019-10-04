@@ -35,4 +35,18 @@ l.letter3();
 }
 }
 
+O/P:
+
+A 
+AB 
+ABC 
+ABCD 
+ABCDE 
+ 
+A 
+BB 
+CCC 
+DDDD 
+EEEEE 
+
 
