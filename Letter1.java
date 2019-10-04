@@ -33,3 +33,18 @@ l.letter2();
 }
 }
 
+O/P:
+
+AAAAA 
+BBBBB 
+CCCCC 
+DDDDD 
+EEEEE 
+ 
+ABCDE 
+ABCDE 
+ABCDE 
+ABCDE 
+ABCDE
+
+
