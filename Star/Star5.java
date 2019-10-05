@@ -1,7 +1,7 @@
-class Star6
+class Star5
 {
 
-void star6()
+void star5()
 {
 for(int i=0;i<=3;i++)
 {
@@ -22,8 +22,8 @@ System.out.println(" ");
 
 public static void main(String[]args)
 {
-Star6 s=new Star6();
-s.star6();
+Star5 s=new Star5();
+s.star5();
 }
 }
 
