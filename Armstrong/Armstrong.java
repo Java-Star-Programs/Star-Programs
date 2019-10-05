@@ -20,7 +20,7 @@ n=n/10;
 
 if(temp==top)
 {
-System.out.println("Armstring Number");
+System.out.println("Armstrong Number");
 }
 else
 {
@@ -38,4 +38,4 @@ a.armstrong();
 O/P:
 
 Enter the number:  153
-Armstring Number
+Armstrong Number
