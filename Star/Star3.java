@@ -9,7 +9,7 @@ for(int j=0;j<=4;j++)
 {
 if((i==2) || (j==2))
 {
-System.out.print("*");
+System.out.print("♛");
 }
 else
 {
@@ -30,10 +30,11 @@ s.star3();
 
 O/P:
 
-  *   
-  *   
-***** 
-  *   
-  *   
+  ♛   
+  ♛   
+♛♛♛♛♛ 
+  ♛   
+  ♛  
+
 
 
