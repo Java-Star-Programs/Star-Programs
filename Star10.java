@@ -1,5 +1,5 @@
 class Star10
-{ 
+{
 
 void star10()
 {
@@ -29,8 +29,9 @@ s.star10();
 
 O/P Letter A :
 
-   *
+   *  
+      
+  * * 
+  * * 
 
-  * *
-  * *
 
