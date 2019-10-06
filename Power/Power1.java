@@ -12,12 +12,10 @@ int n=sc.nextInt();
 
 for(int i=1;i<=n;i++)
 {
-a=a+(int)Math.pow(i,2);
+a=(int)Math.pow(i,2);
+System.out.print(a+ " \t"+" + ");
 }
-
-System.out.print("Sum of Squares : " +a);
 }
-
 public static void main(String[]args)
 {
 Power1 p=new Power1();
@@ -25,8 +23,9 @@ p.power1();
 }
 }
 
-
 O/P:
 
-Up to Numbers 100
-Squares of numbers: 338350
+Up to Numbers 10
+1 	 + 4 	 + 9 	 + 16 	 + 25 	 + 36 	 + 49 	 + 64 	 + 81 	 + 100  
+
+
