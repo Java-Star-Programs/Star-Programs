@@ -12,7 +12,7 @@ int n=sc.nextInt();
 
 for(int i=1;i<=n;i++)
 {
-a=(int)Math.pow(i,2);
+a=a+(int)Math.pow(i,2);
 }
 
 System.out.print("Squares of numbers: " +a);
@@ -25,3 +25,8 @@ p.power1();
 }
 }
 
+
+O/P:
+
+Up to Numbers 100
+Squares of numbers: 338350
