@@ -15,7 +15,7 @@ for(int i=1;i<=n;i++)
 a=a+(int)Math.pow(i,2);
 }
 
-System.out.print("Squares of numbers: " +a);
+System.out.print("Sum of Squares : " +a);
 }
 
 public static void main(String[]args)
