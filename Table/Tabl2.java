@@ -11,7 +11,15 @@ int n=sc.nextInt();
 
 for(int i=2;i<=20;i=i+2)
 {
+if(n%2==0)
+{
 System.out.println(n+"*"+i+"="+ n*i);
+}
+else
+{
+System.out.println("Odd Number No Table");
+break;
+}
 }
 }
 
@@ -24,16 +32,19 @@ t.tabl2();
 
 O/P:
 
-Enter the Number: 4
-4*2=8
-4*4=16
-4*6=24
-4*8=32
-4*10=40
-4*12=48
-4*14=56
-4*16=64
-4*18=72
-4*20=80
+Enter the Number: 232323
+Odd Number No Table
+
+Enter the Number: 32
+32*2=64
+32*4=128
+32*6=192
+32*8=256
+32*10=320
+32*12=384
+32*14=448
+32*16=512
+32*18=576
+32*20=640
 
  
