@@ -7,7 +7,7 @@ void display()
 {
 String s="4000";
 
-int n=Integer.valueof(s);
+int n=Integer.valueOf(s);
 System.out.print("String to Int Conversion: "+s);
 }
 
@@ -18,3 +18,6 @@ public static void main(String[]args)
 }
 }
 
+O/P:
+
+String to Int Conversion: 4000
