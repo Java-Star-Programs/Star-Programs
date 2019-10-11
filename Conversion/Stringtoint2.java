@@ -11,4 +11,10 @@ int n=Integer.valueof(s);
 System.out.print("String to Int Conversion: "+s);
 }
 
-public static void main
+public static void main(String[]args)
+{
+  Stringtoint2 s=new Stringtoint2();
+  s.display();
+}
+}
+
