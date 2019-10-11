@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class substring {
+public class Substring {
     
     void display()
     {
@@ -17,7 +17,15 @@ public class substring {
     
     public static void main(String[] args) {
         
-        substring p=new substring();
+        Substring p=new Substring();
         p.display();
 
 }    }
+
+O/P:
+
+Enter the word
+hello
+0
+3
+hel
