@@ -19,6 +19,8 @@ public class Stringlist {
 		System.out.println("Char at method of string  "+name1.charAt(100));
 		System.out.println(" ");
 		System.out.println("Index of the String  "+name1.indexOf("e"));
+		System.out.println(" ");
+                System.out.println(name1.trim());
 	
 	}
 	
